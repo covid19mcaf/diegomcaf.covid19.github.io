@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-More about this website.
+Pagina creada para ver las distintas predicciones realizadas sobre los datos de COVID-19 en España
