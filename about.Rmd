@@ -1,5 +1,5 @@
 ---
-title: "Metodología aplicada"
+title: "Metodología"
 ---
 
-Pagina creada para ver las distintas predicciones realizadas sobre los datos de COVID-19 en España
+Series temporales
